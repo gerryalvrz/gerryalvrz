@@ -28,7 +28,7 @@ ___.                .__                   ___________  ____            __  .__
 <p align="center">【ＣＯＮＮＥＣＴ】</p>
 <p align="center">
  <a href="https://twitter.com/brahma101_eth"><img src="https://img.shields.io/badge/-@brahma101_eth-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
- <a href="https://brahma101.cyou"><img src="https://img.shields.io/badge/-brahma101.cyou-00FF00?style=flat&logo=About.me&logoColor=black"/></a>
+ <a href="https://brahma101.cyou"><img src="https://img.shields.io/badge/-brahma101.cyou-00FF00?style=flat&logo=About.me&logoColor=white"/></a>
  <a href="https://brahma101.eth.limo/"><img src="https://img.shields.io/badge/-brahma101.eth-3C3C3D?style=flat&logo=Ethereum&logoColor=white"/></a>
 </p>
 <br/>
@@ -74,7 +74,7 @@ ___.                .__                   ___________  ____            __  .__
         <b>【ＣＲＥＡＴＩＶＥ　ＥＸＰＬＯＲＡＴＩＯＮＳ】</b>
         </p> 
         <p align="center">
-        <code>// Generative Art Experiments</code><br/>
+        <code>// Generative Art Experiments</code><br/> 
         <code>// Interactive Web3 Experiences</code><br/>
         <code>// Psychedelic Digital Landscapes</code><br/>
         <code>// Matrix-style Visualizations</code><br/>
