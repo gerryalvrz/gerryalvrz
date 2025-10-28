@@ -34,11 +34,6 @@ ___.                .__                   ___________  ____            __  .__
 <br/>
 
 <p align="center">【ＥＸＰＥＲＩＭＥＮＴＳ】</p>
-<div align="center">
-<code>// Privacy advocate • Self-custody evangelist • Data sovereignty architect</code><br/>
-<code>// Building tools for digital freedom and economic sovereignty</code><br/>
-<code>// Decentralizing power through code and cryptography</code>
-</div>
 
 <div align="center">
 <br/>
@@ -84,21 +79,7 @@ ___.                .__                   ___________  ____            __  .__
 
 
 <br/>
-        <a href="https://collectors.poap.xyz/token/YOUR_POAP_ID">
-        <img src='https://poap8.imgix.net/YOUR_POAP_IMAGE.png'    height='150vw'>
-        </a>
-        <a href="https://collectors.poap.xyz/token/YOUR_POAP_ID">
-        <img src='https://poap1.imgix.net/YOUR_POAP_IMAGE.png'    height='150vw'>
-        </a>
-        <a href="https://explorer.poap.xyz/brahma101.eth/YOUR_POAP_ID">
-        <img src='https://assets.poap.xyz/YOUR_POAP_IMAGE.png'    height='150vw'>
-        </a>
-        <br/>
-        <a href="https://collectors.poap.xyz/scan/brahma101.eth">
-        <b>View Full Collection</b>
-        </a>
-</details>
-</p>
+
 
 <p align="center">【ＣＯＤＥ　ＳＴＡＴＳ】</p>
 <div id="header" align="center">
