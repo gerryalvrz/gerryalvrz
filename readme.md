@@ -14,6 +14,11 @@ ___.                .__                   ___________  ____            __  .__
 </div>
 <br/>
 
+<div align="center">
+ <img src="img/Anon.WEBP" alt="Anon"/>
+</div>
+<br/>
+
 <p align="center">
 <strong>Brahma101.eth</strong> • <em>paradigm shifter hacking the matrix</em>
 </p>
