@@ -15,7 +15,7 @@ ___.                .__                   ___________  ____            __  .__
 <br/>
 
 <div align="center">
- <img src="img/Anon.WEBP" alt="Anon"/>
+ <img src="img/Anon.WEBP" alt="Anon" width="220"/>
 </div>
 <br/>
 
