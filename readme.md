@@ -9,10 +9,7 @@ ___.                .__                   ___________  ____            __  .__
      \/           \/     \/      \/     \/           \/      \/     \/          \/ 
 ```
 
-<div id="header" align="center">
- <img src="img/bannerGithub.png"/>
-</div>
-<br/>
+
 
 <div align="center">
  <img src="img/Anon.WEBP" alt="Anon" width="220"/>
